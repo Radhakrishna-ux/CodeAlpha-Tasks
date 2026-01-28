@@ -1,0 +1,15 @@
+Explaination:
+Job name
+Label used (e.g., aws-agent)
+Command run in build
+Example:
+
+Job Type: Freestyle
+Node Label: aws-agent
+Build Command:
+echo "This job is running on Jenkins Agent"
+hostname
+
+Purpose:
+Proves job runs on agent
+Shows load distribution
